@@ -15,7 +15,7 @@ public class sum {
 		
 		int num1= Integer.parseInt(str1);
 		int num2 = Integer.parseInt(str2);
-		
+		 
 		System.out.println("덧셈의 결과는"+(num1+num2)+"입니다.");
 	}
 }
